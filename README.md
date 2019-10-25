@@ -8,7 +8,7 @@ please visit https://godoc.org/text/template
 ```
 
 import (
- "github.com/f1shl3gs/drone-template-lib/template"
+ "github.com/f1shl3gs/drone-template"
 )
 
 func YourFunction() {
